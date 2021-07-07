@@ -21,6 +21,6 @@ things work under the hood.
 * *Javascript course on udemy*
 * *Python course on udemy*
 #### Languages
-* **English**
+* *English*
   * *English is part of my everyday job for communication, also for reading, watching online courses and so on. Without it I would not have got any good education.* 
 
